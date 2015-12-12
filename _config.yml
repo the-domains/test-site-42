@@ -1,0 +1,28 @@
+name: 'Test site #42'
+favicon: null
+layout_spectrum: 0.4270801136735827
+typography_spectrum: 0.25855589797720313
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5104518681764603
+  lightness: 0.287607379257679
+  saturation: 0.41429833928123116
+  rhythmicContrast: 0.42661835602484643
+purpose: []
