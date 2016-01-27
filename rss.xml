@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Test site #42]]></title>
         <description><![CDATA[Test site #42]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/test-site-42/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Dec 2015 13:19:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jan 2016 12:54:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/test-site-42/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Test, to see if we can get out of intro mode</p>]]></description>
+            <link>https://thegrid.ai/test-site-42/51cc8aef-da68-4630-aa3a-9e26312c6ed5/index.html</link>
+            <guid isPermaLink="false">51cc8aef-da68-4630-aa3a-9e26312c6ed5</guid>
+            <pubDate>Wed, 27 Jan 2016 12:54:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[First impression ]]></title>
-            <description><![CDATA[<h1>First impression </h1>]]></description>
-            <link>undefinedfirst-impression/index.html</link>
+            <description><![CDATA[<article><h1>First impression </h1><p>First impression: "this is what the hype was about?". I'm confident that some wow -moments are in store, however.</p></article>]]></description>
+            <link>https://thegrid.ai/test-site-42/first-impression/index.html</link>
             <guid isPermaLink="false">82b0dcba-f727-4253-a255-ff9682fa0aa3</guid>
             <pubDate>Sat, 12 Dec 2015 13:18:51 GMT</pubDate>
         </item>
